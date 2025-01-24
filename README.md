@@ -1,5 +1,6 @@
 【Hello World !】
 
+<img src="IMG_Wallpaper--RPI-1920x1280_Temple.jpg">
 <img src="IMGobj_FuLuMonkey_20160215_c1-900.jpg" width=600>
 
 <img src="2014_0629_0763_update_share.jpg" width="300">  <img src="2014_0719_0018_update_share.jpg" width="300">
